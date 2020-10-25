@@ -1,2 +1,2 @@
 # ohtu-2020-viikko1
-https://github.com/<OWNER>/<REPOSITORY>/workflows/<WORKFLOW_NAME>/badge.svg
+![GitHub Actions]https://github.com/johannaspo/ohtu-2020-viikko1/workflows/Java%20CI%20with%20Gradle/badge.svg
