@@ -20,8 +20,8 @@ jobs:
     - name: Test with Gradle
       run: ./gradlew test
 
-name: Code coverage rapost
+    - name: Code coverage rapost
       run: ./gradlew jacocoTestReport
 
-name: Data to codecov
+    - name: Data to codecov
       run: bash <(curl -s https://codecov.io/bash)
