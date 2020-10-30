@@ -57,5 +57,6 @@ public class Main {
         System.out.println("saatiin " + saatiin);
         System.out.println("Mehuvarasto: " + mehua);
         
+        
     }
 }
