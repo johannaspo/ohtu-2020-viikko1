@@ -27,4 +27,4 @@ jobs:
       run: bash <(curl -s https://codecov.io/bash)
     
     - name: checkstyle
-      run: config/checkstyle/checkstyle.xml
+      run: ./gradlew checkstyleMain
